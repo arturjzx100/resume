@@ -146,7 +146,7 @@ a:active {
     font-family: inherit;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 550px) {
     .container .info {
         display: block;
         text-align: center;
@@ -157,7 +157,7 @@ a:active {
     }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 550px) {
     .contact .form-row {
         display: block;
     }
